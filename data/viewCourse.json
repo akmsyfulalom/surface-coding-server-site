@@ -1,0 +1,44 @@
+[
+    {
+        "id": "01",
+        "name": "Leran JavaScript with Victor M. Purcell",
+        "description": "Master your language with lessons, quizzes, and projects designed for real-life scenarios. Take your skills to a new level and join millions of users that have learned Javascript. Affordable",
+        "img": "https://i.ibb.co/BtRdBSH/course-one.png",
+        "price": "$80"
+    },
+    {
+        "id": "02",
+        "name": "Leran Front-end development with Liam",
+        "description": "A Front-End Developer is someone who creates websites and web applications. The Front-End Developer creates things that the user sees",
+        "img": "https://i.ibb.co/xCrFh1z/course-two.png",
+        "price": "$120"
+    },
+    {
+        "id": "03",
+        "name": "Leran Full stack web development (MERN) with Liam",
+        "description": "MERN stands for MongoDB, Express, React, Node, after the four key technologies that make up the stack. Express and Node make up the middle (application) tier.",
+        "img": "https://i.ibb.co/YcN0WbV/course-three.png",
+        "price": "$70"
+    },
+    {
+        "id": "04",
+        "name": "Leran Android app development with Muhamed C.",
+        "description": "A beginner course on Android Application development - Free Course. ... Debug an Android Application. Create a signed APK file to submit to the Google Play",
+        "img": "https://i.ibb.co/VHHm8Ty/course-four.png",
+        "price": "$85"
+    },
+    {
+        "id": "05",
+        "name": "Learn Embedded programming course wkith Greidi Ajalik",
+        "description": "An embedded programming language is a programming language that developers use in embedded systems.",
+        "img": "https://i.ibb.co/GpB6GMK/course-five.png",
+        "price": "$120"
+    },
+    {
+        "id": "06",
+        "name": "Learn Python by Building Five Games - Full course with Guido van Rossum",
+        "description": "5 Games to Build and Learn Python · 1. Rock, Paper, and Scissors: · 2. Word Guessing Game: · 3. Tkinter to roll the dice: · 4. Tic Tac Toe: · 5 . Quiz with Python:.",
+        "img": "https://i.ibb.co/5TQ0yVM/course-six.png",
+        "price": "$100"
+    }
+]

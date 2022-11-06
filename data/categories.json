@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "Lern JavaScript with Victor M. Purcell"
+    },
+    {
+        "id": "02",
+        "name": "Lern Front-end development with Liam"
+    },
+    {
+        "id": "03",
+        "name": "Lern Full stack web development (MERN) with Liam"
+    },
+    {
+        "id": "04",
+        "name": "Leran Android app development with Muhamed C."
+    },
+    {
+        "id": "05",
+        "name": "Learn Embedded programming course wkith Greidi Ajalik"
+    },
+    {
+        "id": "06",
+        "name": "Learn Python by Building Five Games - Full course with Guido van Rossum"
+    }
+]
