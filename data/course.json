@@ -1,0 +1,121 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent",
+            "price": "80",
+            "total_duration": 488,
+            "total_class": "50"
+        },
+        "title": "Leran JavaScript with Victor M. Purcell",
+        "author": {
+            "name": "Lena Bailey",
+            "img": "https://s3.ivisa.com/website-assets/blog/id-photo2.jpg"
+        },
+        "image_url": "https://i.ibb.co/BtRdBSH/course-one.png",
+        "short_details": "Master your language with lessons, quizzes, and projects designed for real-life scenarios. Take your skills to a new level and join millions of users that have learned Javascript. Affordable",
+        "details": "JavaScript (js) is a light-weight object-oriented programming language which is used by several websites for scripting the webpages. It is an interpreted, full-fledged programming language that enables dynamic interactivity on websites when applied to an HTML document. It was introduced in the year 1995 for adding programs to the webpages in the Netscape Navigator browser. Since then, it has been adopted by all other graphical web browsers. With JavaScript, users can build modern web applications to interact directly without reloading the page every time. The traditional website uses js to provide several forms of interactivity and simplicity."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f31c2ab6a",
+        "category_id": "02",
+        "rating": {
+            "number": 4.9,
+            "badge": "Excellent",
+            "price": "90",
+            "total_duration": 388,
+            "total_class": "45"
+        },
+        "total_duration": 488,
+        "title": "Leran Front-end development with Lia",
+        "author": {
+            "name": "Ivy Hanson",
+            "img": "https://s3.ivisa.com/website-assets/blog/id-photo2.jpg"
+        },
+        "image_url": "https://i.ibb.co/xCrFh1z/course-two.png",
+        "short_details": "A Front-End Developer is someone who creates websites and web applications. The Front-End Developer creates things that the user sees",
+        "details": "Front-end web development, also known as client-side development is the practice of producing HTML, CSS and JavaScript for a website or Web Application so that a user can see and interact with them directly. The challenge associated with front end development is that the tools and techniques used to create the front end of a website change constantly and so the developer needs to constantly be aware of how the field is developing. The objective of designing a site is to ensure that when the users open up the site they see the information in a format that is easy to read and relevant. This is further complicated by the fact that users now use a large variety of devices with varying screen sizes and resolutions thus forcing the designer to take into consideration these aspects when designing the site. They need to ensure that their site comes up correctly in different browsers (cross-browser), different operating systems (cross-platform) and different devices (cross-device), which requires careful planning on the side of the developer."
+    },
+    {
+        "_id": "0282e0e58a5c404fed15681f11c2ab6a",
+        "category_id": "03",
+        "rating": {
+            "number": 4.7,
+            "badge": "Excellent",
+            "price": "100",
+            "total_duration": 528,
+            "total_class": "55"
+        },
+        "total_duration": 528,
+        "title": "Leran Full stack web development (MERN) with Liam",
+        "author": {
+            "name": "Kirsten Ortiz",
+            "img": "https://s3.ivisa.com/website-assets/blog/id-photo2.jpg"
+        },
+        "image_url": "https://i.ibb.co/YcN0WbV/course-three.png",
+        "short_details": "MERN stands for MongoDB, Express, React, Node, after the four key technologies that make up the stack. Express and Node make up the middle (application) tier",
+        "details": "React.js front endThe top tier of the MERN stack is React.js, the declarative JavaScript framework for creating dynamic client-side applications in HTML. React lets you build up complex interfaces through simple components, connect them to data on your back-end server, and render them as HTML.React’s strong suit is handling stateful, data-driven interfaces with minimal code and minimal pain, and it has all the bells and whistles you’d expect from a modern web framework: great support for forms, error handling, events, lists, and more.Express.js and Node.js server tierThe next level down is the Express.js server-side framework, running inside a Node.js server. Express.js bills itself as a “fast, unopinionated, minimalist web framework for Node.js,” and that is indeed exactly what it is. Express.js has powerful models for URL routing (matching an incoming URL with a server function), and handling HTTP requests and responses.By making XML HTTP Requests (XHRs) or GETs or POSTs from your React.js front end, you can connect to Express.js functions that power your application. Those functions, in turn, use MongoDB’s Node.js drivers, either via callbacks or using promises, to access and update data in your MongoDB database.MongoDB database tierIf your application stores any data (user profiles, content, comments, uploads, events, etc.), then you’re going to want a database that’s just as easy to work with as React, Express, and Node.That’s where MongoDB comes in: JSON documents created in your React.js front end can be sent to the Express.js server, where they can be processed and (assuming they’re valid) stored directly in MongoDB for later retrieval. Again, if you’re building in the cloud, you’llwant to look at Atlas. If you’re looking to set up your own MERN stack, read on!"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f44c2ab6a",
+        "category_id": "04",
+        "rating": {
+            "number": 4.4,
+            "badge": "Excellent",
+            "price": "85",
+            "total_duration": 598,
+            "total_class": "42"
+        },
+        "total_duration": 468,
+        "title": "Leran Android app development with Muhamed C.",
+        "author": {
+            "name": "ROBERT",
+            "img": "https://s3.ivisa.com/website-assets/blog/id-photo2.jpg"
+        },
+        "image_url": "https://i.ibb.co/VHHm8Ty/course-four.png",
+        "short_details": "A beginner course on Android Application development - Free Course. ... Debug an Android Application. Create a signed APK file to submit to the Google Play",
+        "details": "Java is one of the powerful general-purpose programming languages, created in 1995 by Sun Microsystems (now owned by Oracle). Java is Object-Oriented. However, it is not considered as pure object-oriented as it provides support for primitive data types (like int, char, etc). Java syntax is similar to C/C++. But Java does not provide low-level programming functionalities like pointers. Also, Java code is always written in the form of classes and objects. Android heavily relies on the Java programming language all the SDKs required to build for android applications use the standard libraries of Java. If one is coming from a traditional programming background like C, C++, Java is easy to learn. So in this discussion, there is a complete guide to learn Java specifically considering Android App Development."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd1526l411c2ab6a",
+        "category_id": "05",
+        "rating": {
+            "number": 4.6,
+            "badge": "Excellent",
+            "price": "65",
+            "total_duration": 578,
+            "total_class": "49"
+        },
+        "total_duration": 788,
+        "title": "Learn Embedded programming course wkith Greidi Ajalik",
+        "author": {
+            "name": "MICHAEL",
+            "img": "https://s3.ivisa.com/website-assets/blog/id-photo2.jpg"
+        },
+        "image_url": "https://i.ibb.co/GpB6GMK/course-five.png",
+        "short_details": "An embedded programming language is a programming language that developers use in embedded systems.",
+        "details": "An embedded programming language is a programming language that developers use in embedded systems. In general, the languages offer low-level access to the device hardware. Developers use several common programming languages for embedded systems. Some people also call these embedded coding languages."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261g81c2ab6a",
+        "category_id": "06",
+        "rating": {
+            "number": 4.7,
+            "badge": "Excellent",
+            "price": "100",
+            "total_duration": 348,
+            "total_class": "35"
+        },
+        "total_duration": 428,
+        "title": "Learn Python by Building Five Games - Full course with Guido van Rossum",
+        "author": {
+            "name": "JOHN",
+            "img": "https://s3.ivisa.com/website-assets/blog/id-photo2.jpg"
+        },
+        "image_url": "https://i.ibb.co/5TQ0yVM/course-six.png",
+        "short_details": "5 Games to Build and Learn Python · 1. Rock, Paper, and Scissors: · 2. Word Guessing Game: · 3. Tkinter to roll the dice: · 4. Tic Tac Toe: · 5 . Quiz with Python:.",
+        "details": "This course takes a project-based approach. If you learn best by doing, this isthecoursefor you. You will learn from Christian Thompson, Keith Galli, and Tech with Tim. Theseexperienced teachers will help you understand every line of code in the projects.You don't need prior programming experience to learn from this course. However, it is helpful if you are aware of some basic programming concepts since this course skips the basic syntax instruction and jumps right into building projects.Build games using the command line, turtle, and Pygame One of the games just uses the command line. Writing code for the command line is agreatway to learn basic programming skills without having to worry about graphics.Another game uses the turtle graphics module. This is a built-in module that is often used to teach beginning programming skills and can be used for simple games.You will also learn to build games using Pygame. Pygame is a set of Python modules that is used to create all sorts of games, even advanced ones. It makes it easy to add graphics and sound to Python programs.In the final section, you will learn how to code a scaleable multiplayer game with Python using sockets and networking. You will learn how to deploy your game so that people anywhere around the world can play against each other."
+    }
+]
