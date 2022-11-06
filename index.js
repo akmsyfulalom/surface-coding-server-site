@@ -30,6 +30,12 @@ app.get('/course/:id', (req, res) => {
 
 })
 
+app.get('/premium/:id', (req, res) => {
+    const id = req.params.id;
+    const selectPremiumCourse = course.find(p => p._id === id)
+    res.send(selectPremiumCourse);
+})
+
 
 
 
