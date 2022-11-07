@@ -17,11 +17,13 @@ app.get('/', (req, res) => {
 });
 
 
-
+// course api
 
 app.get('/course', (req, res) => {
     res.send(course)
 });
+
+// course each id api
 
 app.get('/course/:id', (req, res) => {
     const id = req.params.id;
@@ -29,6 +31,8 @@ app.get('/course/:id', (req, res) => {
     res.send(selectedCourse)
 
 })
+
+// premium router api
 
 app.get('/premium/:id', (req, res) => {
     const id = req.params.id;
